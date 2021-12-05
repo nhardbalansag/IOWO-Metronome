@@ -1,0 +1,8 @@
+App design
+- https://appagg.com/android/tools/metronomio-metronome-app-24348419.html?hl=en#galery-1
+
+
+library
+- react navigations
+- redux
+- native base
